@@ -3,10 +3,13 @@
 Card reader based on blink sdk
 
 Run following steps to run the project -
+
 a. npm install
 -----
+
 b. npm run build
 -----
+
 c. serve javascript/
 -----
 
